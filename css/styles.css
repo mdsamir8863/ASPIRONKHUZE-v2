@@ -4426,7 +4426,7 @@ a {
 
 .submit-button {
     height: 65px;
-    background-color: #046ef8;
+    background-color: #5f84ff !important;
     background-image: linear-gradient(99deg, #5e5cff, #5f84ff);
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;

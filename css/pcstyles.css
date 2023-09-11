@@ -876,6 +876,9 @@ textarea.w-select {
 }
 
 @media screen and (max-width:991px) {
+    .d-none {
+        display: none !important;
+    }
     .w-container {
         max-width: 728px
     }

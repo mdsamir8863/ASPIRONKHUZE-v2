@@ -876,9 +876,10 @@ textarea.w-select {
 }
 
 @media screen and (max-width:991px) {
-    .d-none{
+    .d-none {
         display: none !important;
     }
+
     .w-container {
         max-width: 728px
     }
@@ -21329,7 +21330,10 @@ a {
 
     .footer-wrapper {
         flex-wrap: wrap;
-        justify-content: flex-start
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: center;
+        justify-content: center;
     }
 
     .footer-grid-03 {

@@ -5325,7 +5325,9 @@ a {
     grid-column-gap: 72px;
     grid-row-gap: 110px;
     grid-template-rows: auto;
-    grid-template-columns: .75fr 1fr
+    grid-template-columns: .75fr 1fr;
+    align-items: center;
+
 }
 
 .open-hours-paragraph {
@@ -5347,7 +5349,8 @@ a {
     border: 1px solid rgba(2, 2, 2, .23);
     border-radius: 20px;
     padding: 52px 50px 65px;
-    display: block
+    display: block;
+    height: fit-content;
 }
 
 .contact-us-form._2 {

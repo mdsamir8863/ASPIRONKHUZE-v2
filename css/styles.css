@@ -14962,9 +14962,19 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    padding: 3rem;
+    padding: 1rem;
     display: flex;
     position: relative
+}
+
+/* projects css */
+.our-projects {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 6rem;
+    margin-top: -4rem;
 }
 
 .runline__logos {
@@ -14978,7 +14988,7 @@ a {
     align-items: center;
     display: flex;
     position: relative;
-    overflow: hidden
+    overflow: hidden;
 }
 
 .runline__logos.anim-scroll-up {
@@ -14987,12 +14997,13 @@ a {
     background-position: 0%;
     background-repeat: repeat-x;
     background-size: auto 3.2rem;
-    margin-right: 0
+    margin-right: 0;
 }
 
 .runline__logos.anim-scroll-up.black {
-    background-image: url(https://assets.website-files.com/60ff07f0bdba9d3352cdb381/63c596dc9b80c1a4e7d1566e_Group%202.svg);
-    background-size: auto 5rem
+    background-image: url(../images/our-clients.png);
+    background-size: auto 5rem;
+    border: 2px solid #d4d4d4;
 }
 
 .content-6 {
@@ -15001,7 +15012,7 @@ a {
     max-width: 87rem;
     margin-left: auto;
     margin-right: auto;
-    position: relative
+    position: relative;
 }
 
 .content-6.mod--runlogos {
@@ -15015,19 +15026,19 @@ a {
     margin: 59px 0 4rem;
     padding-bottom: 0;
     display: flex;
-    overflow: hidden
+    overflow: hidden;
 }
 
 .content-6.mod--runlogos.hp {
     margin-top: 1px;
     margin-bottom: 3.2rem;
-    padding-bottom: 0
+    padding-bottom: 0;
 }
 
 .img-wrap-3 {
     position: relative;
     overflow: hidden;
-    transform: translate(0)
+    transform: translate(0);
 }
 
 .img-wrap-3.mod--reviews-ava {
@@ -15035,7 +15046,7 @@ a {
     height: 3rem;
     background-color: #f6f7fb;
     border-radius: 61%;
-    transform: translate(0)
+    transform: translate(0);
 }
 
 .text-size-small-2 {

@@ -14957,7 +14957,7 @@ a {
 
 .runline__logos.anim-scroll-up {
     height: 4rem;
-    background-image: url(https://assets.website-files.com/60ff07f0bdba9d3352cdb381/63e3fd06c398ea4db87b83c6_Group%201.png);
+    background-image: url('../images/our-clients.png');
     background-position: 0%;
     background-repeat: repeat-x;
     background-size: auto 3.2rem;
@@ -14965,7 +14965,7 @@ a {
 }
 
 .runline__logos.anim-scroll-up.black {
-    background-image: url(https://assets.website-files.com/60ff07f0bdba9d3352cdb381/63c596dc9b80c1a4e7d1566e_Group%202.svg);
+    background-image: url('../images/our-clients.png');
     background-size: auto 5rem
 }
 
